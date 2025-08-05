@@ -36,7 +36,7 @@ export const metadata: Metadata = {
 	authors: [{ name: '[Your Name]' }],
 	creator: '[Your Name]',
 	openGraph: {
-		title: '[TJ Patel] - Personal Portfolio,
+		title: '[TJ Patel] - Personal Portfolio',
 		description: 'Passionate software developer creating clean, minimal, and effective digital solutions. Explore my work and development philosophy.',
 		url: 'https://your-domain.com',
 		siteName: '',
